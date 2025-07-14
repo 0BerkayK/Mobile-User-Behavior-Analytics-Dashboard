@@ -22,6 +22,8 @@ This project simulates and analyzes user behavior within a mobile application us
 |------------------|
 | ![Campaign](assets/screenshots/campaign.png) |
 
+📌 [🖥️ Dashboard](https://lookerstudio.google.com/s/pYBVwPO4bMI)
+
 ---
 
 ## 🧱 Project Structure
@@ -113,6 +115,13 @@ Upload files from /data folder to Google Drive
 Connect them to Looker Studio as data sources
 
 
+## 📄 Google Sheets Tables
+
+| Tablo Adı              | Açıklama                             | Görüntüle |
+|------------------------|--------------------------------------|-----------|
+| `funnel_analysis`      | App_open → Purchase funnel verisi     | [Görüntüle](https://docs.google.com/spreadsheets/d/1P_geN9UrvKfs9-9qKtKpiwnopMqHl6DC1I0r2LPcFBU/edit?usp=sharing) |
+| `campaign_analysis`    | LTV / CAC / ROI hesapları             | [Görüntüle](https://docs.google.com/spreadsheets/d/1zQTLUPFcH7AHj4Ai0O9SzevUdo2nis3dXjEQNoLrSPI/edit?usp=sharing) |
+| `events_ab`            | A/B test event datası                 | [Görüntüle](https://docs.google.com/spreadsheets/d/1tu_U_oHBT-pOxSMONQlw51JMXEkoGSg6nQtR4HiyKMY/edit?usp=sharing) |
 
 
 
